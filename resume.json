@@ -1,13 +1,13 @@
 {
   "displayOrder": ["shortBio","projects", "work", "education", "awards", "volunteer", "social"],
   "personal": {
-    "name": "Navdeep Sekhon",
-    "title": "Software Developer",
-    "email": "sekhon@navdeep.co",
-    "phone": "123-456-7890",
-    "website": "http://www.navdeepsekhon.com",
-    "shortBio": "Hello! I am Navdeep Sekhon. I make stuff. Here's some of it.",
-    "location": "Delaware",
+    "name": "Aditya Prakash",
+    "title": "Machine Learning Enthusiast",
+    "email": "aditya211p@gmail.com",
+    "phone": "+917979043820",
+    "website": "http://www.techieaditya.ml",
+    "shortBio": "Hello! I am Aditya Prakash. I make stuff. Here's some of it.",
+    "location": "Bangalore",
     "profiles": [
       {
         "network": "Twitter",
